@@ -2,11 +2,9 @@
 
 現在転職活動中で、興味ある方は[@anvinon](https://twitter.com/anvinon)にリプライかDMをいただければ幸いです。
 
-もしくは [ホームページのメールフォーム](https://anvinon.com/?page_id=637) からメールして頂いても結構です。
-
 # 概要
 
-石川孟(いしかわたけし)と申します。千葉県柏市在住の33歳男です。
+石川孟(いしかわたけし)と申します。千葉県柏市在住の33歳男です。好きなものはコンピューターとヘビーメタルです。一番好きな時間はヘビーメタルを聴きながらパソコンにさわっているときです。
 
 
 # 今まで何をしてきたか
@@ -30,13 +28,11 @@
 
 2018年頃無事完治。以前から興味のあったプログラミングを言語はPythonで本格的に始めます。
 
-2018年秋から[AI Academy](https://aiacademy.jp/)の[サイバーブレイン株式会社](https://aiacademy.jp/about/)で執行役員として働いていました。
+2018年秋から[AI Academy](https://aiacademy.jp/)の[サイバーブレイン株式会社](https://aiacademy.jp/about/)で働いていました。
 
 本職はマーケターではありましたが、AI Academyの教材（Django、OS別の環境構築の方法）作成、セミナー講師（スクレイピング）などもしました。
 
-仕事をしていく中で、一番楽しかった時間はプログラミングをしている時間でしたので転職を決意し、
-
-現在はWEBエンジニアを希望して転職活動中です。
+仕事をしていく中で、一番楽しかった時間はプログラミングをしている時間でしたので転職を決意し、現在はWEBエンジニアを希望して転職活動中です。
 
 そして今に至ります。
 
@@ -53,7 +49,7 @@
 # 技術者として心がけていること
 
 - アウトプットを積極的に行う。（ブログ、Qiita、GitHubなど）
-- 勉強会にも積極的に出席し、その日学んだことをEvernoteにメモし、定期的に見直す。
+- 勉強会への出席はもちろんのこと自ら主催し、その日学んだことをEvernoteにメモし、定期的に見直す。
 - 新しい技術にはひとまず飛びつく。
 
 # 社会人として心がけていること
@@ -76,3 +72,28 @@
 
 環境・エネルギー問題に興味があるので、エンジニアとして関わる。
 
+# 今までの業績のようなもの
+## テキスト作成
+1. AI Academyテキスト「Djangoを使ったTwitterクローン作成 part1」
+https://aiacademy.jp/texts/show/?id=180
+1. AI Academyテキスト「Djangoを使ったTwitterクローン作成 part2」
+https://aiacademy.jp/texts/show/?id=181
+1. macでPythonを用いたWeb開発を行う場合の環境構築
+https://aiacademy.jp/texts/show/?id=195
+1. WindowsでPythonを用いたWeb開発を行う場合の環境構築
+https://aiacademy.jp/texts/show/?id=196
+
+## セミナー講師
+1. ハンズオンで一緒に手を動かしましょう！　PythonによるWebスクレイピング入門
+（2019/02/17(日)　10:00〜12:00）
+https://techplay.jp/event/718079
+1. ハンズオンで一緒に手を動かしましょう！　PythonによるWebスクレイピング入門
+（2019/02/17(日)　14:00〜16:00）
+https://techplay.jp/event/718438
+  ※両セミナー当日のハンズオン用資料
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anvinon/scraping_seminar/master)
+  
+# 関連リンク
+1. [GitHub](https://github.com/anvinon)
+1. [Qiita](https://qiita.com/anvinon)
+1. [Twitter](https://twitter.com/anvinon)

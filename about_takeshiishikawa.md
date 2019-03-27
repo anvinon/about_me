@@ -74,23 +74,23 @@
 
 # 今までの業績のようなもの
 ## テキスト作成
-1. AI Academyテキスト「Djangoを使ったTwitterクローン作成 part1」
+1. AI Academyテキスト「Djangoを使ったTwitterクローン作成 part1」  
 https://aiacademy.jp/texts/show/?id=180
-1. AI Academyテキスト「Djangoを使ったTwitterクローン作成 part2」
+1. AI Academyテキスト「Djangoを使ったTwitterクローン作成 part2」  
 https://aiacademy.jp/texts/show/?id=181
-1. macでPythonを用いたWeb開発を行う場合の環境構築
+1. macでPythonを用いたWeb開発を行う場合の環境構築  
 https://aiacademy.jp/texts/show/?id=195
-1. WindowsでPythonを用いたWeb開発を行う場合の環境構築
+1. WindowsでPythonを用いたWeb開発を行う場合の環境構築  
 https://aiacademy.jp/texts/show/?id=196
 
 ## セミナー講師
-1. ハンズオンで一緒に手を動かしましょう！　PythonによるWebスクレイピング入門
-（2019/02/17(日)　10:00〜12:00）
-https://techplay.jp/event/718079
-1. ハンズオンで一緒に手を動かしましょう！　PythonによるWebスクレイピング入門
-（2019/02/17(日)　14:00〜16:00）
-https://techplay.jp/event/718438
-  ※両セミナー当日のハンズオン用資料
+1. ハンズオンで一緒に手を動かしましょう！　PythonによるWebスクレイピング入門  
+（2019/02/17(日)　10:00〜12:00）  
+https://techplay.jp/event/718079  
+1. ハンズオンで一緒に手を動かしましょう！　PythonによるWebスクレイピング入門  
+（2019/02/17(日)　14:00〜16:00）  
+https://techplay.jp/event/718438  
+  ※両セミナー当日のハンズオン用資料  
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anvinon/scraping_seminar/master)
   
 # 関連リンク
